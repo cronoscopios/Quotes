@@ -1,0 +1,2 @@
+# Quotes
+Theme for WordPress
